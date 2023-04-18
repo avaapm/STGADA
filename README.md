@@ -5,7 +5,7 @@ If you make use of this code, please cite the following paper (and give us a sta
 ```bibtex
 @InProceedings{stgada2023,
     author    = {Ustun, Berkcan and Kaya, Ahmet Kagan and Cakir Ayerden, Ezgi and Altinel, Fazil },
-    title     = {Self-Training Guided Adversarial Domain Adaptation for Thermal Imagery},
+    title     = {Spectral Transfer Guided Active Domain Adaptation for Thermal Imagery},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
     month     = {June},
     year      = {2023},
