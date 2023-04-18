@@ -4,19 +4,19 @@
 If you make use of this code, please cite the following paper (and give us a star :sparkles:):
 ```bibtex
 @InProceedings{sgada2021,
-    author    = {Akkaya, Ibrahim Batuhan and Altinel, Fazil and Halici, Ugur},
+    author    = {Ustun, Berkcan and Kaya, Ahmet Kagan and Cakir Ayerden, Ezgi and Altinel, Fazil },
     title     = {Self-Training Guided Adversarial Domain Adaptation for Thermal Imagery},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
     month     = {June},
-    year      = {2021},
+    year      = {2023},
     pages     = {4322-4331}
 }
 ```
 
-[![arXiv](images/shield-arxiv.svg)](https://arxiv.org/abs/2106.07165) [![OpenAccess](images/shield-openaccess.svg)](https://openaccess.thecvf.com/content/CVPR2021W/PBVS/papers/Akkaya_Self-Training_Guided_Adversarial_Domain_Adaptation_for_Thermal_Imagery_CVPRW_2021_paper.pdf) [![WebPage](images/shield-page.svg)](https://avaapm.github.io/sgada/)
+[![arXiv](images/shield-arxiv.svg)](https://arxiv.org/abs/2304.07031) [![OpenAccess](images/shield-openaccess.svg)](https://openaccess.thecvf.com/content/CVPR2021W/PBVS/papers/Akkaya_Self-Training_Guided_Adversarial_Domain_Adaptation_for_Thermal_Imagery_CVPRW_2021_paper.pdf) [![WebPage](images/shield-page.svg)](https://avaapm.github.io/sgada/)
 
 ## Overview
-This repository contains official implementation of "[Spectral Transfer Guided Active Domain Adaptation for Thermal Imagery](https://arxiv.org/abs/2106.07165)" paper (accepted to CVPR 2021 [Perception Beyond the Visible Spectrum (PBVS)](https://pbvs-workshop.github.io/) workshop).
+This repository contains official implementation of "[Spectral Transfer Guided Active Domain Adaptation for Thermal Imagery](https://arxiv.org/abs/2304.07031)" paper (accepted to CVPR 2021 [Perception Beyond the Visible Spectrum (PBVS)](https://pbvs-workshop.github.io/) workshop).
 
 <p align="center">
   <img src="overview.eps" width="800">
