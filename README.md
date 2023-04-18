@@ -13,7 +13,7 @@ If you make use of this code, please cite the following paper (and give us a sta
 }
 ```
 
-[![arXiv](images/shield-arxiv.svg)](https://arxiv.org/abs/2304.07031) [![OpenAccess](images/shield-openaccess.svg)](https://openaccess.thecvf.com/content/CVPR2021W/PBVS/papers/Akkaya_Self-Training_Guided_Adversarial_Domain_Adaptation_for_Thermal_Imagery_CVPRW_2021_paper.pdf) [![WebPage](images/shield-page.svg)](https://avaapm.github.io/sgada/)
+[![arXiv](images/shield-arxiv.svg)](https://arxiv.org/abs/2304.07031)
 
 ## Overview
 This repository contains official implementation of "[Spectral Transfer Guided Active Domain Adaptation for Thermal Imagery](https://arxiv.org/abs/2304.07031)" paper (accepted to CVPR 2021 [Perception Beyond the Visible Spectrum (PBVS)](https://pbvs-workshop.github.io/) workshop).
