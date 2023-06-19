@@ -3,20 +3,20 @@
 
 If you make use of this code, please cite the following paper (and give us a star :sparkles:):
 ```bibtex
-@InProceedings{stgada2023,
-    author    = {Ustun, Berkcan and Kaya, Ahmet Kagan and Cakir Ayerden, Ezgi and Altinel, Fazil },
+@InProceedings{Ustun_2023_CVPR,
+    author    = {Ustun, Berkcan and Kaya, Ahmet Kagan and Ayerden, Ezgi Cakir and Altinel, Fazil},
     title     = {Spectral Transfer Guided Active Domain Adaptation for Thermal Imagery},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
     month     = {June},
     year      = {2023},
-    pages     = {4322-4331}
+    pages     = {449-458}
 }
 ```
 
 [![arXiv](arxiv_shield.svg)](https://arxiv.org/abs/2304.07031)
 
 ## Overview
-This repository contains official implementation of "[Spectral Transfer Guided Active Domain Adaptation for Thermal Imagery](https://arxiv.org/abs/2304.07031)" paper (accepted to CVPR 2021 [Perception Beyond the Visible Spectrum (PBVS)](https://pbvs-workshop.github.io/) workshop).
+This repository contains official implementation of "[Spectral Transfer Guided Active Domain Adaptation for Thermal Imagery](https://arxiv.org/abs/2304.07031)" paper (accepted to CVPR 2023 [Perception Beyond the Visible Spectrum (PBVS)](https://pbvs-workshop.github.io/) workshop).
 
 <p align="center">
   <img src="overview.png" width="800">
